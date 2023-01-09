@@ -1,0 +1,289 @@
+{
+  "Branches": [
+    {
+      "id": 1,
+      "branch_name": "CSE",
+      "branch_fname": "Computer Science and Engineering",
+      "semesters": [
+        {
+          "semid": "S1",
+          "semno": "I",
+          "sem_subjects": [
+            {
+              "subid": "s1",
+              "sub": "EM-I",
+              "grades": [
+                { "gid": "g1", "grade": "A++" },
+                { "gid": "g2", "grade": "A+" },
+                { "gid": "g3", "grade": "A" },
+                { "gid": "g4", "grade": "B+" },
+                { "gid": "g5", "grade": "B" },
+                { "gid": "g6", "grade": "C+" },
+                { "gid": "g7", "grade": "C" },
+                { "gid": "g8", "grade": "D" },
+                { "gid": "g9", "grade": "D1" },
+                { "gid": "g10", "grade": "D2" },
+                { "gid": "g11", "grade": "D3" }
+              ]
+            },
+            {
+              "subid": "s2",
+              "sub": "EC",
+              "grades": [
+                { "gid": "g1", "grade": "A++" },
+                { "gid": "g2", "grade": "A+" },
+                { "gid": "g3", "grade": "A" },
+                { "gid": "g4", "grade": "B+" },
+                { "gid": "g5", "grade": "B" },
+                { "gid": "g6", "grade": "C+" },
+                { "gid": "g7", "grade": "C" },
+                { "gid": "g8", "grade": "D" },
+                { "gid": "g9", "grade": "D1" },
+                { "gid": "g10", "grade": "D2" },
+                { "gid": "g11", "grade": "D3" }
+              ]
+            },
+            {
+              "subid": "s3",
+              "sub": "EG",
+              "grades": [
+                { "gid": "g1", "grade": "A++" },
+                { "gid": "g2", "grade": "A+" },
+                { "gid": "g3", "grade": "A" },
+                { "gid": "g4", "grade": "B+" },
+                { "gid": "g5", "grade": "B" },
+                { "gid": "g6", "grade": "C+" },
+                { "gid": "g7", "grade": "C" },
+                { "gid": "g8", "grade": "D" },
+                { "gid": "g9", "grade": "D1" },
+                { "gid": "g10", "grade": "D2" },
+                { "gid": "g11", "grade": "D3" }
+              ]
+            },
+            {
+              "subid": "s4",
+              "sub": "EM",
+              "grades": [
+                { "gid": "g1", "grade": "A++" },
+                { "gid": "g2", "grade": "A+" },
+                { "gid": "g3", "grade": "A" },
+                { "gid": "g4", "grade": "B+" },
+                { "gid": "g5", "grade": "B" },
+                { "gid": "g6", "grade": "C+" },
+                { "gid": "g7", "grade": "C" },
+                { "gid": "g8", "grade": "D" },
+                { "gid": "g9", "grade": "D1" },
+                { "gid": "g10", "grade": "D2" },
+                { "gid": "g11", "grade": "D3" }
+              ]
+            },
+            {
+              "subid": "s5",
+              "sub": "BCOMP&IT",
+              "grades": [
+                { "gid": "g1", "grade": "A++" },
+                { "gid": "g2", "grade": "A+" },
+                { "gid": "g3", "grade": "A" },
+                { "gid": "g4", "grade": "B+" },
+                { "gid": "g5", "grade": "B" },
+                { "gid": "g6", "grade": "C+" },
+                { "gid": "g7", "grade": "C" },
+                { "gid": "g8", "grade": "D" },
+                { "gid": "g9", "grade": "D1" },
+                { "gid": "g10", "grade": "D2" },
+                { "gid": "g11", "grade": "D3" }
+              ]
+            },
+            {
+              "subid": "s6",
+              "sub": "LAB-EC",
+              "grades": [
+                { "gid": "g1", "grade": "A++" },
+                { "gid": "g2", "grade": "A+" },
+                { "gid": "g3", "grade": "A" },
+                { "gid": "g4", "grade": "B+" },
+                { "gid": "g5", "grade": "B" },
+                { "gid": "g6", "grade": "C+" },
+                { "gid": "g7", "grade": "C" },
+                { "gid": "g8", "grade": "D" },
+                { "gid": "g9", "grade": "D1" },
+                { "gid": "g10", "grade": "D2" },
+                { "gid": "g11", "grade": "D3" }
+              ]
+            },
+            {
+              "subid": "s7",
+              "sub": "LAB-EG",
+              "grades": [
+                { "gid": "g1", "grade": "A++" },
+                { "gid": "g2", "grade": "A+" },
+                { "gid": "g3", "grade": "A" },
+                { "gid": "g4", "grade": "B+" },
+                { "gid": "g5", "grade": "B" },
+                { "gid": "g6", "grade": "C+" },
+                { "gid": "g7", "grade": "C" },
+                { "gid": "g8", "grade": "D" },
+                { "gid": "g9", "grade": "D1" },
+                { "gid": "g10", "grade": "D2" },
+                { "gid": "g11", "grade": "D3" }
+              ]
+            },
+            {
+              "subid": "s8",
+              "sub": "LAB-EM",
+              "grades": [
+                { "gid": "g1", "grade": "A++" },
+                { "gid": "g2", "grade": "A+" },
+                { "gid": "g3", "grade": "A" },
+                { "gid": "g4", "grade": "B+" },
+                { "gid": "g5", "grade": "B" },
+                { "gid": "g6", "grade": "C+" },
+                { "gid": "g7", "grade": "C" },
+                { "gid": "g8", "grade": "D" },
+                { "gid": "g9", "grade": "D1" },
+                { "gid": "g10", "grade": "D2" },
+                { "gid": "g11", "grade": "D3" }
+              ]
+            },
+            {
+              "subid": "s9",
+              "sub": "LAB-BCOMP&IT",
+              "grades": [
+                { "gid": "g1", "grade": "A++" },
+                { "gid": "g2", "grade": "A+" },
+                { "gid": "g3", "grade": "A" },
+                { "gid": "g4", "grade": "B+" },
+                { "gid": "g5", "grade": "B" },
+                { "gid": "g6", "grade": "C+" },
+                { "gid": "g7", "grade": "C" },
+                { "gid": "g8", "grade": "D" },
+                { "gid": "g9", "grade": "D1" },
+                { "gid": "g10", "grade": "D2" },
+                { "gid": "g11", "grade": "D3" }
+              ]
+            },
+            {
+              "subid": "s10",
+              "sub1": "LAB-WORKSHOP-I",
+              "grades": [
+                { "gid": "g1", "grade": "A++" },
+                { "gid": "g2", "grade": "A+" },
+                { "gid": "g3", "grade": "A" },
+                { "gid": "g4", "grade": "B+" },
+                { "gid": "g5", "grade": "B" },
+                { "gid": "g6", "grade": "C+" },
+                { "gid": "g7", "grade": "C" },
+                { "gid": "g8", "grade": "D" },
+                { "gid": "g9", "grade": "D1" },
+                { "gid": "g10", "grade": "D2" },
+                { "gid": "g11", "grade": "D3" }
+              ]
+            }
+          ]
+        },
+        {
+          "semid": "S2",
+          "semno": "II",
+          "sem_subjects": [
+            "EM-I",
+            "EP",
+            "CSkills",
+            "EEXP",
+            "BCOMP&IT/BME/BEE/BECE",
+            "LAB-BCOMP&IT/BME/BEE/BECE",
+            "LAB-CSkills",
+            "LAB-WORKSHOP-II"
+          ]
+        },
+        {
+          "semid": "S3",
+          "semno": "III",
+          "sem_subjects": [
+            "EM-I",
+            "EP",
+            "CSkills",
+            "EEXP",
+            "BCOMP&IT/BME/BEE/BECE",
+            "LAB-BCOMP&IT/BME/BEE/BECE",
+            "LAB-CSkills",
+            "LAB-WORKSHOP-II"
+          ]
+        },
+        {
+          "semid": "S4",
+          "semno": "IV",
+          "sem_subjects": [
+            "EM-I",
+            "EP",
+            "CSkills",
+            "EEXP",
+            "BCOMP&IT/BME/BEE/BECE",
+            "LAB-BCOMP&IT/BME/BEE/BECE",
+            "LAB-CSkills",
+            "LAB-WORKSHOP-II"
+          ]
+        },
+        {
+          "semid": "S5",
+          "semno": "V",
+          "sem_subjects": [
+            "EM-I",
+            "EP",
+            "CSkills",
+            "EEXP",
+            "BCOMP&IT/BME/BEE/BECE",
+            "LAB-BCOMP&IT/BME/BEE/BECE",
+            "LAB-CSkills",
+            "LAB-WORKSHOP-II"
+          ]
+        },
+        {
+          "semid": "S6",
+          "semno": "VI",
+          "sem_subjects": [
+            "EM-I",
+            "EP",
+            "CSkills",
+            "EEXP",
+            "BCOMP&IT/BME/BEE/BECE",
+            "LAB-BCOMP&IT/BME/BEE/BECE",
+            "LAB-CSkills",
+            "LAB-WORKSHOP-II"
+          ]
+        },
+        {
+          "semid": "S7",
+          "semno": "VII",
+          "sem_subjects": [
+            "EM-I",
+            "EP",
+            "CSkills",
+            "EEXP",
+            "BCOMP&IT/BME/BEE/BECE",
+            "LAB-BCOMP&IT/BME/BEE/BECE",
+            "LAB-CSkills",
+            "LAB-WORKSHOP-II"
+          ]
+        },
+        {
+          "semid": "S8",
+          "semno": "VIII",
+          "sem_subjects": [
+            "EM-I",
+            "EP",
+            "CSkills",
+            "EEXP",
+            "BCOMP&IT/BME/BEE/BECE",
+            "LAB-BCOMP&IT/BME/BEE/BECE",
+            "LAB-CSkills",
+            "LAB-WORKSHOP-II"
+          ]
+        }
+      ]
+    },
+    { "id": 2, "branch_name": "IT" },
+    { "id": 3, "branch_name": "ENTC" },
+    { "id": 4, "branch_name": "MECH" },
+    { "id": 5, "branch_name": "EE" }
+  ]
+}

@@ -1,0 +1,271 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  /* border: 2px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: -webkit-linear-gradient(
+    90deg,
+    rgb(0, 0, 101),
+    rgb(151, 231, 255)
+  );
+  font-family: "Rubik";
+  /* margin-left: 0;
+  margin-right: 0; */
+  /* padding: 0;
+  margin: 0; */
+}
+.main_title {
+  font-family: "Poppins";
+  letter-spacing: 2px;
+  font-size: 1.5rem;
+  /* text-shadow: 2px 1px 6px #000; */
+  font-weight: 500;
+  margin: 1rem;
+}
+
+.wrapper {
+  z-index: 20;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width: 20rem;
+  height: max-content;
+
+  border-radius: 10px;
+  background-color: aliceblue;
+  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.clg_logo {
+  text-align: center;
+}
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+}
+
+/*----------GRADES ------------------------------------*/
+.grades-container {
+  width: 100vw;
+  height: max-content;
+  /* border: 2px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: -webkit-linear-gradient(
+    90deg,
+    rgb(0, 0, 101),
+    rgb(151, 231, 255)
+  );
+  font-family: "Rubik";
+  /* margin-left: 0;
+  margin-right: 0; */
+  /* padding: 0;
+  margin: 0; */
+}
+.grades-wrapper {
+  /* padding-top: 2rem;
+  padding-bottom: 2rem; */
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  width: 20rem;
+  height: max-content;
+
+  border-radius: 10px;
+  background-color: aliceblue;
+
+  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.student_info {
+  width: 100%;
+  padding: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.student_info p {
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  line-height: 1rem;
+  margin: 0.5rem;
+}
+.selection {
+  padding: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.select_grades {
+  margin-top: 1rem;
+  width: 20rem;
+  height: max-content;
+  /* padding: 0.5rem; */
+  font-family: "Poppins";
+  border-radius: 10px;
+  background-color: aliceblue;
+  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.select_grades h3 {
+  line-height: 1rem;
+  text-align: center;
+  /* text-decoration: underline;
+  text-underline-offset: 3px; */
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+.select_grades h4 {
+  text-align: center;
+  line-height: 0.5rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  letter-spacing: 1px;
+}
+.enter_grades {
+  width: 100%;
+  /* height: max-content; */
+  /* background-color: aqua; */
+  transform: translateY(-0.5rem);
+}
+.enter_grades p {
+  margin-left: 1rem;
+  line-height: 1rem;
+}
+.branch_sem_title {
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.branch_name {
+  font-size: 1rem;
+  font-family: "Poppins";
+}
+.branch_sem_title .sem_name {
+  margin: 0.5rem;
+  font-family: "Poppins";
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.selection_table {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.subject {
+  width: 100%;
+  display: flex;
+  padding-left: 0.5rem;
+  justify-content: center;
+  align-items: center;
+
+  font-family: "Poppins";
+  font-size: 0.8rem;
+}
+.subject p {
+  width: 50%;
+}
+.subject .form {
+  width: 50%;
+}
+.calculate_button {
+  margin: 0.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+.calculate_button button {
+  margin-right: 1rem;
+}
+
+/*----------------------------------RESULT_________________________________________--*/
+
+.result-container {
+  width: 100vw;
+  height: max-content;
+  /* border: 2px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: -webkit-linear-gradient(
+    90deg,
+    rgb(0, 0, 101),
+    rgb(151, 231, 255)
+  );
+  font-family: "Rubik";
+  /* margin-left: 0;
+  margin-right: 0; */
+  /* padding: 0;
+  margin: 0; */
+}
+.result-wrapper {
+  /* padding-top: 2rem;
+  padding-bottom: 2rem; */
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  width: min-content;
+  height: max-content;
+
+  border-radius: 10px;
+  background-color: aliceblue;
+
+  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+/*===================== options ==========================*/
+.options_wrapper {
+  padding: 1rem;
+  width: 20rem;
+  height: max-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 10px;
+  background-color: aliceblue;
+  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.options_wrapper p {
+  font-size: 1rem;
+  font-weight: 800;
+}
+.button_group {
+  margin: 0.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+/*=============================LOGUT =============================*/
+
+.logout {
+  height: 2rem;
+  width: 2rem;
+  left: 85%;
+  top: 1.2rem;
+  background-color: black;
+  /* position: inherit; */
+  position: relative;
+  border-radius: 150px;
+  background: #e5e5e5;
+  box-shadow: -8px 8px 16px #989898, 8px -8px 16px #ffffff;
+}

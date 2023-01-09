@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+.container {
+  width: 100vw;
+  height: 100vh;
+  /* border: 2px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: -webkit-linear-gradient(90deg, blue, pink);
+  font-family: "Rubik";
+  /* margin-left: 0;
+  margin-right: 0; */
+  /* padding: 0;
+  margin: 0; */
+}
+.main_title {
+  font-family: "Poppins";
+  letter-spacing: 2px;
+  font-size: 1.5rem;
+  /* text-shadow: 2px 1px 6px #000; */
+  font-weight: 500;
+  margin: 1rem;
+}
+.wrapper {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width: 20rem;
+  height: max-content;
+
+  border-radius: 10px;
+  background-color: aliceblue;
+  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.clg_logo {
+  text-align: center;
+}
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+}
+
+/*----------GRADES ------------------------------------*/
+
+.grades-wrapper {
+  /* padding-top: 2rem;
+  padding-bottom: 2rem; */
+  width: 20rem;
+  height: max-content;
+
+  border-radius: 10px;
+  background-color: aliceblue;
+
+  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.student_info {
+  width: 100%;
+  padding: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.student_info p {
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  line-height: 1rem;
+  margin: 0.5rem;
+}
+.selection {
+  padding: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.select_grades {
+  margin-top: 1rem;
+  width: 20rem;
+  height: max-content;
+  /* padding: 0.5rem; */
+  font-family: "Poppins";
+  border-radius: 10px;
+  background-color: aliceblue;
+  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.select_grades h3 {
+  line-height: 1rem;
+  text-align: center;
+  /* text-decoration: underline;
+  text-underline-offset: 3px; */
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+.select_grades h4 {
+  text-align: center;
+  line-height: 0.5rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  letter-spacing: 1px;
+}
+.enter_grades {
+  width: 100%;
+  /* height: max-content; */
+  /* background-color: aqua; */
+  transform: translateY(-0.5rem);
+}
+.enter_grades p {
+  margin-left: 1rem;
+  line-height: 1rem;
+}
+.branch_sem_title {
+  display: flex;
+  padding: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.branch_sem_title .branch_name,
+.sem_name {
+  margin: 0.5rem;
+  font-family: "Poppins";
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
